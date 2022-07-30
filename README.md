@@ -25,7 +25,7 @@
 | [CalyxOS](https://calyxos.org/) | [CalyxOS](https://wikipedia.org/wiki/CalyxOS) | https://gitlab.com/CalyxOS | :heavy_check_mark: Yes |
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | https://github.com/LineageOS | :x: No
 ## Applications
-### Messaging - Decentralized and End to End Encrypted
+### Messaging - Decentralized and [End to End Encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption)
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache |
 | - | - | - | - | - | - | - | - | - | - |
 | [Session](https://getsession.org/) | - | https://github.com/oxen-io | [Libsodium](https://github.com/jedisct1/libsodium) | [Session](https://getsession.org/blog/session-protocol-technical-information)| [Oxen](https://oxen.io/) | AppImage | :heavy_check_mark: Yes | [Yes](https://fdroid.getsession.org/) |
