@@ -29,6 +29,6 @@
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache |
 | - | - | - | - | - | - | - | - | - | - |
 | [Session](https://getsession.org/) | - | https://github.com/oxen-io | [Libsodium](https://github.com/jedisct1/libsodium) | [Session](https://getsession.org/blog/session-protocol-technical-information)| [Oxen](https://oxen.io/) | AppImage | :heavy_check_mark: Yes | [Yes](https://fdroid.getsession.org/) |
-| Briar | [Briar_(software)](https://en.wikipedia.org/wiki/Briar_(software)) | https://code.briarproject.org/briar/briar | | | WiFi\BT\Tor | | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/org.briarproject.briar.android/) |
-| Status | - | https://github.com/status-im | | Waku | | | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days |
-| Cwtch | - | https://git.openprivacy.ca/cwtch.im | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | | :heavy_check_mark: Yes | :x: No |
+| [Briar](https://briarproject.org/) | [Briar_(software)](https://en.wikipedia.org/wiki/Briar_(software)) | https://code.briarproject.org/briar/briar | | | WiFi\BT\Tor | | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/org.briarproject.briar.android/) |
+| [Status](https://status.im/) | - | https://github.com/status-im | | Waku | | | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days |
+| [Cwtch](https://cwtch.im/) | - | https://git.openprivacy.ca/cwtch.im | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | | :heavy_check_mark: Yes | :x: No |
