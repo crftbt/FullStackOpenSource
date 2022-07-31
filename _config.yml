@@ -6,9 +6,6 @@ plugins:
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  social_links:
-    github:  crftbt/FullStackOpenSource
-    reddit: FullStackOpenSource
     
 titles_from_headings:
   enabled:     false
