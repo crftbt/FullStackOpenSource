@@ -5,10 +5,12 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 
+// Trying to remove the Title and Duplicate heading from top of page with the below config
 name: ""
 title: null
 titles_from_headings:
   enabled:     false
   strip_title: true
   collections: false
+layout: null
 
