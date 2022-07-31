@@ -3,7 +3,9 @@
 
 [![Reddit](https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png)](https://reddit.com/r/FullStackOpenSource/) [![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
 
-## Coreboot [Laptops](https://wikipedia.org/wiki/Laptop)
+## Hardware
+
+### Coreboot [Laptops](https://wikipedia.org/wiki/Laptop)
 
 | Clearnet Website | Wikipedia | Size | Price |
 | - | - | - | - |
@@ -12,22 +14,24 @@
 | [System76](https://system76.com/) | [System76](https://wikipedia.org/wiki/System76) | 14", 15", 17" | $1000 - $2200 |
 | [Purism](https://puri.sm/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | 14" | $1370 |
 
-## [Firmware Implementations](https://wikipedia.org/wiki/Firmware)
+## Software
+
+### [Firmware Implementations](https://wikipedia.org/wiki/Firmware)
 
 | Clearnet Website | Wikipedia | Source Code | Closed Source [Binary Blobs](https://wikipedia.org/wiki/Binary_blob) |
 | - | - | - | - |
 | [Libreboot](https://libreboot.org/) | [Libreboot](https://wikipedia.org/wiki/Libreboot) | https://notabug.org/libreboot/lbmk | :heavy_check_mark: No |
 | [Coreboot](https://coreboot.org/) | [Coreboot](https://wikipedia.org/wiki/Coreboot) | https://review.coreboot.org/plugins/gitiles/ | :x: Yes  |
 
-## [Operating Systems](https://wikipedia.org/wiki/Operating_system)
-### [Linux](https://wikipedia.org/wiki/Linux)
+### [Operating Systems](https://wikipedia.org/wiki/Operating_system)
+#### [Linux](https://wikipedia.org/wiki/Linux)
 
 | Clearnet Website | Wikipedia | Source Code | Closed Source [Binary Blobs](https://wikipedia.org/wiki/Binary_blob) |
 | - | - | - | - |
 | [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | https://source.puri.sm/explore | :heavy_check_mark: No |
 | [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | https://github.com/QubesOS/ | :x: Yes |
 
-### [Android](https://wikipedia.org/wiki/Android_(operating_system))
+#### [Android](https://wikipedia.org/wiki/Android_(operating_system))
 
 | Clearnet Website | Wikipedia | Source Code | Verified Boot |
 | - | - | - | - |
@@ -35,8 +39,8 @@
 | [DivestOS](https://www.divestos.org/) | [DivestOS](https://wikipedia.org/wiki/DivestOS) | https://github.com/divested-mobile | :heavy_check_mark: Yes |
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | https://github.com/LineageOS | :x: No
 
-## Applications
-### Messaging - Decentralized and [End to End Encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption)
+### Applications
+#### Messaging - Decentralized and [End to End Encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption)
 
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache | Last Audited |
 | - | - | - | - | - | - | - | - | - | - | - |
