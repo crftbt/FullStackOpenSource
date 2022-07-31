@@ -5,6 +5,7 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 
+name: ""
 title: null
 titles_from_headings:
   enabled:     false
