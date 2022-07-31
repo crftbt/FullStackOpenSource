@@ -1,7 +1,9 @@
-remote_theme: jekyll/minima
-
-minima:
-  skin: dark
+title: fullstackopensource.com
 
 plugins: 
   - jemoji
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+
