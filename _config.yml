@@ -1,5 +1,5 @@
-gems: 
-  - jemoji
-  
 minima:
   skin: dark
+
+gems: 
+  - jemoji
