@@ -1,7 +1,7 @@
 
 # [Full Stack](https://en.wikipedia.org/wiki/Solution_stack) [Open Source](https://en.wikipedia.org/wiki/Open_source) Hardware and Software.
 
-![Reddit](https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png) [Reddit](https://reddit.com/r/FullStackOpenSource/) ![Github](https://github.githubassets.com/favicons/favicon-dark.png)[Github](https://github.com/crftbt/FullStackOpenSource/)
+[![Reddit](https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png)](https://reddit.com/r/FullStackOpenSource/) [![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
 
 ## Coreboot [Laptops](https://wikipedia.org/wiki/Laptop)
 
