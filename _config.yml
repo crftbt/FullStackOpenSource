@@ -4,7 +4,8 @@ plugins:
 remote_theme: jekyll/minima
 minima:
   skin: dark
-    
+
+title: null
 titles_from_headings:
   enabled:     false
   strip_title: true
