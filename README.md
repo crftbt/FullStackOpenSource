@@ -1,3 +1,4 @@
+
 # [Full Stack](https://en.wikipedia.org/wiki/Solution_stack) [Open Source](https://en.wikipedia.org/wiki/Open_source) Hardware and Software.
 
 ![Reddit](https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png) [Reddit](https://reddit.com/r/FullStackOpenSource/) ![Github](https://github.githubassets.com/favicons/favicon-dark.png)[Github](https://github.com/crftbt/FullStackOpenSource/)
@@ -31,6 +32,7 @@
 | Clearnet Website | Wikipedia | Source Code | Verified Boot |
 | - | - | - | - |
 | [CalyxOS](https://calyxos.org/) | [CalyxOS](https://wikipedia.org/wiki/CalyxOS) | https://gitlab.com/CalyxOS | :heavy_check_mark: Yes |
+| [DivestOS](https://www.divestos.org/) | [DivestOS](https://wikipedia.org/wiki/DivestOS) | https://github.com/divested-mobile | :heavy_check_mark: Yes |
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | https://github.com/LineageOS | :x: No
 
 ## Applications
