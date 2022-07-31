@@ -9,6 +9,7 @@
 | [ThinkPenguin](https://www.thinkpenguin.com/) | - | 14" | $950 |
 | [System76](https://system76.com/) | [System76](https://wikipedia.org/wiki/System76) | 14", 15", 17" | $1000 - $2200 |
 | [Purism](https://puri.sm/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | 14" | $1370 |
+
 ## [Firmware Implementations](https://wikipedia.org/wiki/Firmware)
 | Clearnet Website | Wikipedia | Source Code | Closed Source [Binary Blobs](https://wikipedia.org/wiki/Binary_blob) |
 | - | - | - | - |
