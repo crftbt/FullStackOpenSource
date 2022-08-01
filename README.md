@@ -1,4 +1,5 @@
 
+  
 # [Full Stack](https://en.wikipedia.org/wiki/Solution_stack) [Open Source](https://en.wikipedia.org/wiki/Open_source) Hardware and Software.
 
 [![Reddit](https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png)](https://reddit.com/r/FullStackOpenSource/) [![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
@@ -39,7 +40,26 @@
 | [DivestOS](https://www.divestos.org/) | [DivestOS](https://wikipedia.org/wiki/DivestOS) | https://github.com/divested-mobile | :heavy_check_mark: Yes |
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | https://github.com/LineageOS | :x: No
 
+##### References:
+##### - https://en.wikipedia.org/wiki/Security-focused_operating_system
+
 ## Applications
+
+### [Web Browsers](https://en.wikipedia.org/wiki/Web_browser)
+
+| Clearnet Website | Wikipedia | Source Code | [Engine](https://en.wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid |
+| - | - | - | - | - | - | - |
+| [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://en.wikipedia.org/wiki/Tor_(network)#Tor_Browser) | https://gitweb.torproject.org/tor-browser.git/ | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | Yes |
+| Brave | | | Google Chromium |
+| LibreWolf | | | Mozilla Gecko |
+| Focus | | | Mozilla Gecko |
+| Mull | | | Mozilla Gecko |
+| Bromite | | | Google Chromium |
+
+##### References: 
+##### - https://privacytests.org/ 
+##### - https://divestos.org/index.php?page=browsers
+
 ### Messaging - Decentralized and [End to End Encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption)
 
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache | Last Audited |
