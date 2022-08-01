@@ -51,9 +51,9 @@
 | - | - | - | - | - | - | - |
 | [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://en.wikipedia.org/wiki/Tor_(network)#Tor_Browser) | https://gitweb.torproject.org/tor-browser.git/ | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | Yes |
 | Brave | | | Google Chromium |
-| LibreWolf | | | Mozilla Gecko |
-| Focus | | | Mozilla Gecko |
-| Mull | | | Mozilla Gecko |
+| LibreWolf | | | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) |
+| Focus | | | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) |
+| Mull | | | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) |
 | Bromite | | | Google Chromium |
 
 ##### References: 
