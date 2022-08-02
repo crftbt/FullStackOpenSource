@@ -37,7 +37,6 @@
 | Clearnet Website | Wikipedia | Source Code | Verified Boot |
 | - | - | - | - |
 | [CalyxOS](https://calyxos.org/) | [CalyxOS](https://wikipedia.org/wiki/CalyxOS) | https://gitlab.com/CalyxOS | :heavy_check_mark: Yes |
-| [DivestOS](https://www.divestos.org/) | [DivestOS](https://wikipedia.org/wiki/DivestOS) | https://github.com/divested-mobile | :heavy_check_mark: Yes |
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | https://github.com/LineageOS | :x: No
 
 ##### References:
@@ -50,11 +49,11 @@
 | Clearnet Website | Wikipedia | Source Code | [Engine](https://en.wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid |
 | - | - | - | - | - | - | - |
 | [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://en.wikipedia.org/wiki/Tor_(network)#Tor_Browser) | https://gitweb.torproject.org/tor-browser.git/ | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | Yes |
-| Brave | | | Google Chromium |
+| Brave | | | Google [Blink](https://en.m.wikipedia.org/wiki/Blink_(browser_engine)) |
 | LibreWolf | | | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) |
 | Focus | | | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) |
 | Mull | | | [Mozilla](https://en.wikipedia.org/wiki/Mozilla) [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) |
-| Bromite | | | Google Chromium |
+| Bromite | | | Google [Blink](https://en.m.wikipedia.org/wiki/Blink_(browser_engine)) |
 
 ##### References: 
 ##### - https://privacytests.org/ 
