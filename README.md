@@ -49,7 +49,7 @@
 | - | - | - | - | - | - | - |
 | [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | https://gitweb.torproject.org/tor-browser.git/ | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | Yes |
 | [Brave](https://brave.com/) | [Brave_(web_browser)](https://wikipedia.org/wiki/Brave_(web_browser))| https://github.com/brave/brave-browser | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |:heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
-| LibreWolf | | | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |
+| [LibreWolf](https://librewolf.net/) | - | https://gitlab.com/librewolf-community | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No |
 | Focus | | | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |
 | Mull | | | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |
 | Bromite | | | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |
