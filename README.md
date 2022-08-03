@@ -43,6 +43,12 @@
 
 ## Applications
 
+### Android Application Manager
+
+| Clearnet Website | Wikipedia | Source Code |
+| - | - | - |
+| [F-Droid](https://f-droid.org/) | [F-Droid](https://en.wikipedia.org/wiki/F-Droid) | https://gitlab.com/fdroid |
+
 ### [Web Browsers](https://wikipedia.org/wiki/Web_browser)
 
 | Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid |
