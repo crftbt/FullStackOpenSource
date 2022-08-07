@@ -80,3 +80,9 @@
 | - | - | - | - | - | - |
 | [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
 | [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
+
+### [Multi-factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+
+| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| - | - | - | - | - | - |
+| [Aegis Authenticator](https://getaegis.app/) | - | <https://github.com/beemdevelopment/Aegis> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)
