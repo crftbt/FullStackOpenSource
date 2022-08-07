@@ -71,8 +71,8 @@
 | [Briar](https://briarproject.org/) | [Briar_(software)](https://wikipedia.org/wiki/Briar_(software)) | <https://code.briarproject.org/briar/briar> | | P2P | Bluetooh/WiFi/Tor | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/org.briarproject.briar.android/) | | [2017.03.20](https://briarproject.org/news/2017-beta-released-security-audit/) |
 | [Status](https://status.im/) | - | <https://github.com/status-im> | | Waku P2P | | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days | [2019.09](https://github.com/status-im/status-security#audits)
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
-| [Speek](https://speek.network/) | | <https://github.com/Speek-App/Speek> | | | Tor | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
-| [Ricochet Refresh](https://www.ricochetrefresh.net/) | | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | Tor | :heavy_check_mark: Yes | :x: No |
+| [Speek](https://speek.network/) | | <https://github.com/Speek-App/Speek> | | | Tor | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
+| [Ricochet Refresh](https://www.ricochetrefresh.net/) | | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | Tor | :heavy_check_mark: Yes | :x: No | :x: No |
 
 ### [Password Manager](https://en.wikipedia.org/wiki/Password_manager)
 
