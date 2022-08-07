@@ -73,3 +73,10 @@
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Speek](https://speek.network/) | | <https://github.com/Speek-App/Speek> | | | Tor | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 | [Ricochet Refresh](https://www.ricochetrefresh.net/) | | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | Tor | :heavy_check_mark: Yes | :x: No |
+
+### [Password Manager](https://en.wikipedia.org/wiki/Password_manager)
+
+| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| - | - | - | - | - | - |
+| [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
+| [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
