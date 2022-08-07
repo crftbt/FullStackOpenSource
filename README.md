@@ -57,8 +57,8 @@
 | [Brave](https://brave.com/) | [Brave_(web_browser)](https://wikipedia.org/wiki/Brave_(web_browser))| <https://github.com/brave/brave-browser> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |:heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No |
 | [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) | [Firefox_Focus](https://en.wikipedia.org/wiki/Firefox_Focus) | <https://github.com/mozilla-mobile/focus-android> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :x: No |
-| Mull | | <https://github.com/Divested-Mobile/Mull-Fenix> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/us.spotco.fennec_dos/) |
-| [Bromite](https://www.bromite.org/) | | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes](https://www.bromite.org/fdroid) |
+| Mull | - | <https://github.com/Divested-Mobile/Mull-Fenix> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/us.spotco.fennec_dos/) |
+| [Bromite](https://www.bromite.org/) | - | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes](https://www.bromite.org/fdroid) |
 
 ##### References: 
 ##### - <https://privacytests.org/>
