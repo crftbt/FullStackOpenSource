@@ -39,7 +39,7 @@
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | <https://github.com/LineageOS> | :x: No
 
 ##### References:
-##### - https://wikipedia.org/wiki/Security-focused_operating_system
+##### - <https://wikipedia.org/wiki/Security-focused_operating_system>
 
 ## Applications
 
@@ -61,8 +61,8 @@
 | Bromite | | | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |
 
 ##### References: 
-##### - https://privacytests.org/ 
-##### - https://divestos.org/index.php?page=browsers
+##### - <https://privacytests.org/>
+##### - <https://divestos.org/index.php?page=browsers>
 
 ### Messaging - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
 
