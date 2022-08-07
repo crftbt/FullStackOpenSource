@@ -6,14 +6,14 @@
 
 # Hardware
 
-## Coreboot [Laptops](https://wikipedia.org/wiki/Laptop)
+## [Laptop](https://wikipedia.org/wiki/Laptop)
 
-| Clearnet Website | Wikipedia | Size | Price |
-| - | - | - | - |
-| [Star Labs Systems](https://us.starlabs.systems/) | - | 11", 14" | $480 - $930 |
-| [ThinkPenguin](https://www.thinkpenguin.com/) | - | 14" | $950 |
-| [System76](https://system76.com/) | [System76](https://wikipedia.org/wiki/System76) | 14", 15", 17" | $1000 - $2200 |
-| [Purism](https://puri.sm/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | 14" | $1370 |
+| Clearnet Website | Wikipedia | Size | Price | Coreboot |
+| - | - | - | - | - |
+| [Star Labs Systems](https://us.starlabs.systems/) | - | 11", 14" | $480 - $930 | :heavy_check_mark: Yes |
+| [ThinkPenguin](https://www.thinkpenguin.com/) | - | 14" | $950 | :heavy_check_mark: Yes |
+| [System76](https://system76.com/) | [System76](https://wikipedia.org/wiki/System76) | 14", 15", 17" | $1000 - $2200 | :heavy_check_mark: Yes |
+| [Purism](https://puri.sm/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | 14" | $1370 | :heavy_check_mark: Yes |
 
 # Software
 
@@ -23,7 +23,7 @@
 | - | - | - | - |
 | [Coreboot](https://coreboot.org/) | [Coreboot](https://wikipedia.org/wiki/Coreboot) | <https://review.coreboot.org/plugins/gitiles/> | :x: Yes  |
 
-## [Operating Systems](https://wikipedia.org/wiki/Operating_system)
+## [Operating System](https://wikipedia.org/wiki/Operating_system)
 ### [Linux](https://wikipedia.org/wiki/Linux)
 
 | Clearnet Website | Wikipedia | Source Code | Closed Source [Binary Blobs](https://wikipedia.org/wiki/Binary_blob) |
