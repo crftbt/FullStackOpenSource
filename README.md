@@ -26,10 +26,10 @@
 ## [Operating System](https://wikipedia.org/wiki/Operating_system)
 ### [Linux](https://wikipedia.org/wiki/Linux)
 
-| Clearnet Website | Wikipedia | Source Code | Closed Source [Binary Blobs](https://wikipedia.org/wiki/Binary_blob) |
+| Clearnet Website | Wikipedia | Source Code | [FSF](https://www.fsf.org/) |
 | - | - | - | - |
-| [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | <https://source.puri.sm/explore> | :heavy_check_mark: No |
-| [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: Yes |
+| [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | <https://source.puri.sm/explore> | :heavy_check_mark: [Yes](https://www.gnu.org/distros/free-distros.html) |
+| [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No |
 
 ### [Android](https://wikipedia.org/wiki/Android_(operating_system))
 
