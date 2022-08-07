@@ -63,7 +63,7 @@
 ##### References: 
 ##### - <https://privacytests.org/>
 
-### Messaging - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
+### [Instant Messaging](https://en.wikipedia.org/wiki/Instant_messaging) - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
 
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache | Last Audited |
 | - | - | - | - | - | - | - | - | - | - | - |
