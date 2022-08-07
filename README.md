@@ -17,7 +17,7 @@
 
 # Software
 
-## [Firmware Implementations](https://wikipedia.org/wiki/Firmware)
+## [Firmware](https://wikipedia.org/wiki/Firmware)
 
 | Clearnet Website | Wikipedia | Source Code | Closed Source [Binary Blobs](https://wikipedia.org/wiki/Binary_blob) |
 | - | - | - | - |
@@ -49,7 +49,7 @@
 | - | - | - |
 | [F-Droid](https://f-droid.org/) | [F-Droid](https://en.wikipedia.org/wiki/F-Droid) | <https://gitlab.com/fdroid> |
 
-### [Web Browsers](https://wikipedia.org/wiki/Web_browser)
+### [Web Browser](https://wikipedia.org/wiki/Web_browser)
 
 | Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid |
 | - | - | - | - | - | - | - |
