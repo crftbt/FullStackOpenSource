@@ -47,7 +47,7 @@
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | <https://github.com/LineageOS> | :x: No
 
 ##### References:
-##### - <https://wikipedia.org/wiki/Security-focused_operating_system>
+##### <https://wikipedia.org/wiki/Security-focused_operating_system>
 
 ## Applications
 
@@ -69,7 +69,7 @@
 | [Bromite](https://www.bromite.org/) | - | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes*](https://www.bromite.org/fdroid) |
 
 ##### References: 
-##### - <https://privacytests.org/>
+##### <https://privacytests.org/>
 
 ### [Instant Messaging](https://en.wikipedia.org/wiki/Instant_messaging) - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
 
@@ -90,7 +90,7 @@
 | [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
 
 ###### References:
-###### https://wikipedia.org/wiki/List_of_password_managers
+###### <https://wikipedia.org/wiki/List_of_password_managers>
 
 ### [Multi-factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 
