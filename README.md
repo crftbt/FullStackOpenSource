@@ -53,12 +53,12 @@
 
 | Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid |
 | - | - | - | - | - | - | - |
-| [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | <https://gitweb.torproject.org/tor-browser.git/> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | Yes |
+| [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | <https://gitweb.torproject.org/tor-browser.git/> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://support.torproject.org/tormobile/tormobile-7/)
 | [Brave](https://brave.com/) | [Brave_(web_browser)](https://wikipedia.org/wiki/Brave_(web_browser))| <https://github.com/brave/brave-browser> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |:heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No |
 | [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) | [Firefox_Focus](https://en.wikipedia.org/wiki/Firefox_Focus) | <https://github.com/mozilla-mobile/focus-android> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :x: No |
 | Mull | - | <https://github.com/Divested-Mobile/Mull-Fenix> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/us.spotco.fennec_dos/) |
-| [Bromite](https://www.bromite.org/) | - | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes](https://www.bromite.org/fdroid) |
+| [Bromite](https://www.bromite.org/) | - | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes*](https://www.bromite.org/fdroid) |
 
 ##### References: 
 ##### - <https://privacytests.org/>
@@ -67,7 +67,7 @@
 
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache | Last Audited |
 | - | - | - | - | - | - | - | - | - | - | - |
-| [Session](https://getsession.org/) | - | <https://github.com/oxen-io> | [Libsodium](https://github.com/jedisct1/libsodium) | [Session](https://getsession.org/blog/session-protocol-technical-information) DRA | [Oxen](https://oxen.io/) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes](https://fdroid.getsession.org/) | | [2021.05.04](https://blog.quarkslab.com/resources/2021-05-04_audit-of-session-secure-messaging-application/20-08-Oxen-REP-v1.4.pdf) |
+| [Session](https://getsession.org/) | - | <https://github.com/oxen-io> | [Libsodium](https://github.com/jedisct1/libsodium) | [Session](https://getsession.org/blog/session-protocol-technical-information) DRA | [Oxen](https://oxen.io/) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://fdroid.getsession.org/) | | [2021.05.04](https://blog.quarkslab.com/resources/2021-05-04_audit-of-session-secure-messaging-application/20-08-Oxen-REP-v1.4.pdf) |
 | [Briar](https://briarproject.org/) | [Briar_(software)](https://wikipedia.org/wiki/Briar_(software)) | <https://code.briarproject.org/briar/briar> | | P2P | Bluetooh/WiFi/Tor | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/org.briarproject.briar.android/) | | [2017.03.20](https://briarproject.org/news/2017-beta-released-security-audit/) |
 | [Status](https://status.im/) | - | <https://github.com/status-im> | | Waku P2P | | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days | [2019.09](https://github.com/status-im/status-security#audits)
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
