@@ -17,6 +17,12 @@
 
 ## [Security Token](https://en.m.wikipedia.org/wiki/Security_token)
 
+| Clearnet Website | Wikipedia | Source Code | Price |
+| - | - | - | - |
+| [SoloKeys](https://solokeys.com/) | - | <https://github.com/solokeys/solo1> | $20 - 48
+| [OnlyKey](https://onlykey.io/) | - | https://github.com/trustcrypto | $59 - $118 |
+| [Nitrokey](https://www.nitrokey.com/) | [Nitrokey](https://en.wikipedia.org/wiki/Nitrokey) | <https://github.com/nitrokey> | €29 - €109
+
 # Software
 
 ## [Firmware](https://wikipedia.org/wiki/Firmware)
