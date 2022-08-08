@@ -89,8 +89,8 @@
 | [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
 | [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
 
-###### References:
-###### <https://wikipedia.org/wiki/List_of_password_managers>
+##### References:
+##### <https://wikipedia.org/wiki/List_of_password_managers>
 
 ### [Multi-factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 
