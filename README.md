@@ -1,4 +1,5 @@
 
+
   
 # [Full Stack](https://wikipedia.org/wiki/Solution_stack) [Open Source](https://wikipedia.org/wiki/Open_source) Hardware and Software
 
@@ -57,6 +58,31 @@
 | - | - | - |
 | [F-Droid](https://f-droid.org/) | [F-Droid](https://en.wikipedia.org/wiki/F-Droid) | <https://gitlab.com/fdroid> |
 
+### Encrypted [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
+| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| - | - | - | - | - | - |
+| [dnscrypt-proxy](https://www.dnscrypt.org/) | [DNSCrypt](https://wikipedia.org/wiki/DNSCrypt) | <https://github.com/DNSCrypt/dnscrypt-proxy> | :heavy_check_mark: Yes | :heavy_check_mark: Yes | No |
+| [Unbound](https://unbound.net/) | [Unbound_(DNS_server)](https://wikipedia.org/wiki/Unbound_(DNS_server)) | <https://github.com/NLnetLabs/unbound> | :heavy_check_mark: Yes | :x: No | :x: No |
+| Nebulo | - | <https://git.frostnerd.com/PublicAndroidApps/smokescreen/> | :x: No | :heavy_check_mark: Yes | No |
+| [InviZible Pro](https://invizible.net/) | - | <https://github.com/Gedsh/InviZible> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/) |
+| Intra | - | <https://github.com/Jigsaw-Code/Intra> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/app.intra/) |
+
+### [Password Manager](https://en.wikipedia.org/wiki/Password_manager)
+
+| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| - | - | - | - | - | - |
+| [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
+| [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
+
+##### References:
+##### <https://wikipedia.org/wiki/List_of_password_managers>
+
+### [Multi-factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+
+| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| - | - | - | - | - | - |
+| [Aegis Authenticator](https://getaegis.app/) | - | <https://github.com/beemdevelopment/Aegis> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)
+
 ### [Web Browser](https://wikipedia.org/wiki/Web_browser)
 
 | Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid |
@@ -81,19 +107,3 @@
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Speek](https://speek.network/) | - | <https://github.com/Speek-App/Speek> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Ricochet Refresh](https://www.ricochetrefresh.net/) | - | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :x: No | :x: No |
-
-### [Password Manager](https://en.wikipedia.org/wiki/Password_manager)
-
-| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
-| - | - | - | - | - | - |
-| [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
-| [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
-
-##### References:
-##### <https://wikipedia.org/wiki/List_of_password_managers>
-
-### [Multi-factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
-
-| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
-| - | - | - | - | - | - |
-| [Aegis Authenticator](https://getaegis.app/) | - | <https://github.com/beemdevelopment/Aegis> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)
