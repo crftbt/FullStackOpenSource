@@ -59,6 +59,7 @@
 | [F-Droid](https://f-droid.org/) | [F-Droid](https://en.wikipedia.org/wiki/F-Droid) | <https://gitlab.com/fdroid> |
 
 ### Encrypted [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
+
 | Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
 | - | - | - | - | - | - |
 | [dnscrypt-proxy](https://www.dnscrypt.org/) | [DNSCrypt](https://wikipedia.org/wiki/DNSCrypt) | <https://github.com/DNSCrypt/dnscrypt-proxy> | :heavy_check_mark: Yes | :heavy_check_mark: Yes | No |
