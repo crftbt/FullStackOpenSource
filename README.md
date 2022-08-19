@@ -62,7 +62,7 @@
 
 | Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
 | - | - | - | - | - | - |
-| [dnscrypt-proxy](https://www.dnscrypt.org/) | [DNSCrypt](https://wikipedia.org/wiki/DNSCrypt) | <https://github.com/DNSCrypt/dnscrypt-proxy> | :heavy_check_mark: Yes | :heavy_check_mark: Yes | No |
+| [dnscrypt-proxy](https://dnscrypt.info/) | [DNSCrypt](https://wikipedia.org/wiki/DNSCrypt) | <https://github.com/DNSCrypt/dnscrypt-proxy> | :heavy_check_mark: Yes | :heavy_check_mark: Yes | No |
 | [Unbound](https://unbound.net/) | [Unbound_(DNS_server)](https://wikipedia.org/wiki/Unbound_(DNS_server)) | <https://github.com/NLnetLabs/unbound> | :heavy_check_mark: Yes | :x: No | :x: No |
 | Nebulo | - | <https://git.frostnerd.com/PublicAndroidApps/smokescreen/> | :x: No | :heavy_check_mark: Yes | [Yes*](https://git.frostnerd.com/PublicAndroidApps/smokescreen/#f-droid) |
 | [InviZible Pro](https://invizible.net/) | - | <https://github.com/Gedsh/InviZible> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/) |
