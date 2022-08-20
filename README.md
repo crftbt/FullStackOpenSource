@@ -86,14 +86,14 @@
 
 ### [Web Browser](https://wikipedia.org/wiki/Web_browser)
 
-| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid |
-| - | - | - | - | - | - | - |
+| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid | [Advertisement Blocking](https://en.m.wikipedia.org/wiki/Ad_blocking) |
+| - | - | - | - | - | - | - | - |
 | [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | <https://gitweb.torproject.org/tor-browser.git/> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://support.torproject.org/tormobile/tormobile-7/)
-| [Brave](https://brave.com/) | [Brave_(web_browser)](https://wikipedia.org/wiki/Brave_(web_browser))| <https://github.com/brave/brave-browser> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |:heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
+| [Brave](https://brave.com/) | [Brave_(web_browser)](https://wikipedia.org/wiki/Brave_(web_browser))| <https://github.com/brave/brave-browser> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |:heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No | :heavy_check_mark: Yes |
 | [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No |
 | [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) | [Firefox_Focus](https://en.wikipedia.org/wiki/Firefox_Focus) | <https://github.com/mozilla-mobile/focus-android> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :x: No |
-| Mull | - | <https://github.com/Divested-Mobile/Mull-Fenix> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/us.spotco.fennec_dos/) |
-| [Bromite](https://www.bromite.org/) | - | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes*](https://www.bromite.org/fdroid) |
+| Mull | - | <https://github.com/Divested-Mobile/Mull-Fenix> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/us.spotco.fennec_dos/) | :heavy_check_mark: with uBlock |
+| [Bromite](https://www.bromite.org/) | - | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes*](https://www.bromite.org/fdroid) | Yes |
 
 ##### References: 
 ##### <https://privacytests.org/>
