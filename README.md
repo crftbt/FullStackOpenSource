@@ -33,7 +33,7 @@
 | [Coreboot](https://coreboot.org/) | [Coreboot](https://wikipedia.org/wiki/Coreboot) | <https://review.coreboot.org/plugins/gitiles/> | :x: Yes  |
 
 ## [Operating System](https://wikipedia.org/wiki/Operating_system)
-### [Linux](https://wikipedia.org/wiki/Linux)
+### Desktop [Linux](https://wikipedia.org/wiki/Linux)
 
 | Clearnet Website | Wikipedia | Source Code | [FSF](https://www.fsf.org/) |
 | - | - | - | - |
