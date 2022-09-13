@@ -68,6 +68,13 @@
 | [InviZible Pro](https://invizible.net/) | - | <https://github.com/Gedsh/InviZible> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/) |
 | Intra | - | <https://github.com/Jigsaw-Code/Intra> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/app.intra/) |
 
+#### DNS Alternatives
+| Clearnet Website | Wikipedia | Source Code |
+| - | - | - |
+| [GNUnet](https://www.gnunet.org/) | [GNUnet](https://en.wikipedia.org/wiki/GNUnet) | https://git.gnunet.org/gnunet.git/ |
+| [Unstoppable Domains](https://unstoppabledomains.com/) | | https://github.com/unstoppabledomains |
+| [ENS](https://ens.domains/) | | https://github.com/ensdomains |
+
 ### [Password Manager](https://en.wikipedia.org/wiki/Password_manager)
 
 | Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
