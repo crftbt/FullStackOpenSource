@@ -69,6 +69,7 @@
 | Intra | - | <https://github.com/Jigsaw-Code/Intra> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/app.intra/) |
 
 #### DNS Alternatives
+
 | Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
 | [GNUnet](https://www.gnunet.org/) | [GNUnet](https://en.wikipedia.org/wiki/GNUnet) | https://git.gnunet.org/gnunet.git/ |
