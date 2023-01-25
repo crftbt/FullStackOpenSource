@@ -16,6 +16,13 @@
 | [System76](https://system76.com/) | [System76](https://wikipedia.org/wiki/System76) | 14", 15", 17" | $1000 - $2200 | :heavy_check_mark: Yes |
 | [Purism](https://puri.sm/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | 14" | $1370 | :heavy_check_mark: Yes |
 
+## [Mini PC](https://wikipedia.org/wiki/Nettop)
+
+| Clearnet Website | Wikipedia | Model | Processor | Price | Coreboot |
+| - | - | - | - | - | - |
+| [Star Labs Systems](https://starlabs.systems/pages/byte) | - | Byte | AMD | - | :heavy_check_mark: Yes |
+| [Purism](https://puri.sm/products/librem-mini/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | Librem Mini | Intel | $800 | :heavy_check_mark: Yes |
+
 ## [Security Token](https://en.m.wikipedia.org/wiki/Security_token)
 
 | Clearnet Website | Wikipedia | Source Code | Price |
