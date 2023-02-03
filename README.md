@@ -123,3 +123,11 @@
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Speek](https://speek.network/) | - | <https://github.com/Speek-App/Speek> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Ricochet Refresh](https://www.ricochetrefresh.net/) | - | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :x: No | :x: No |
+
+### Social
+
+| Clearnet Website | Wikipedia | Source Code |
+| - | - | - |
+| [Secure Scuttlebutt](https://www.scuttlebutt.nz/) | [Secure_Scuttlebutt](https://wikipedia.org/wiki/Secure_Scuttlebutt) | <https://github.com/ssbc/ssb-server> |
+| [Polycentric](https://polycentric.io/) | | <https://gitlab.futo.org/polycentric/polycentric/-/blob/master/README.md> |
+| [Mastodon](https://joinmastodon.org/) | [Mastodon_(social_network)](https://wikipedia.org/wiki/Mastodon_(social_network)) | <https://github.com/mastodon/mastodon> |
