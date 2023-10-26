@@ -29,7 +29,7 @@
 | - | - | - | - |
 | [SoloKeys](https://solokeys.com/) | - | <https://github.com/solokeys> | $20 - 48
 | [OnlyKey](https://onlykey.io/) | - | <https://github.com/trustcrypto> | $59 - $118 |
-| [Nitrokey](https://www.nitrokey.com/) | [Nitrokey](https://en.wikipedia.org/wiki/Nitrokey) | <https://github.com/nitrokey> | €29 - €109
+| [Nitrokey](https://www.nitrokey.com/) | [Nitrokey](https://wikipedia.org/wiki/Nitrokey) | <https://github.com/nitrokey> | €29 - €109
 
 # Software
 
@@ -45,8 +45,14 @@
 | Clearnet Website | Wikipedia | Source Code | [FSF](https://www.fsf.org/) |
 | - | - | - | - |
 | [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | <https://source.puri.sm/explore> | :heavy_check_mark: [Yes](https://www.gnu.org/distros/free-distros.html) |
-| [NixOS](https://nixos.org/) | [NixOS](https://en.wikipedia.org/wiki/NixOS) | <https://github.com/NixOS/> | :x: No |
+| [NixOS](https://nixos.org/) | [NixOS](https://wikipedia.org/wiki/NixOS) | <https://github.com/NixOS/> | :x: No |
 | [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No |
+
+### Mobile [Linux](https://wikipedia.org/wiki/Linux)
+
+| Clearnet Website | Wikipedia | Source Code |
+| - | - | - |
+| [postmarketOS](https://postmarketos.org/) | [postmarketOS](https://wikipedia.org/wiki/PostmarketOS) | <https://gitlab.com/postmarketOS> |
 
 ### [Android](https://wikipedia.org/wiki/Android_(operating_system))
 
@@ -64,9 +70,9 @@
 
 | Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
-| [F-Droid](https://f-droid.org/) | [F-Droid](https://en.wikipedia.org/wiki/F-Droid) | <https://gitlab.com/fdroid> |
+| [F-Droid](https://f-droid.org/) | [F-Droid](https://wikipedia.org/wiki/F-Droid) | <https://gitlab.com/fdroid> |
 
-### Encrypted [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
+### Encrypted [DNS](https://wikipedia.org/wiki/Domain_Name_System)
 
 | Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
 | - | - | - | - | - | - |
@@ -80,21 +86,21 @@
 
 | Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
-| [GNUnet](https://www.gnunet.org/) | [GNUnet](https://en.wikipedia.org/wiki/GNUnet) | https://git.gnunet.org/gnunet.git/ |
+| [GNUnet](https://www.gnunet.org/) | [GNUnet](https://wikipedia.org/wiki/GNUnet) | https://git.gnunet.org/gnunet.git/ |
 | [Unstoppable Domains](https://unstoppabledomains.com/) | | https://github.com/unstoppabledomains |
 | [ENS](https://ens.domains/) | | https://github.com/ensdomains |
 
-### [Password Manager](https://en.wikipedia.org/wiki/Password_manager)
+### [Password Manager](https://wikipedia.org/wiki/Password_manager)
 
 | Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
 | - | - | - | - | - | - |
-| [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://en.wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
+| [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
 | [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
 
 ##### References:
 ##### <https://wikipedia.org/wiki/List_of_password_managers>
 
-### [Multi-factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+### [Multi-factor Authentication](https://wikipedia.org/wiki/Multi-factor_authentication)
 
 | Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
 | - | - | - | - | - | - |
@@ -108,13 +114,13 @@
 | [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 | Mull | - | <https://github.com/Divested-Mobile/Mull-Fenix> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/us.spotco.fennec_dos/) | :heavy_check_mark: with uBlock | :heavy_check_mark: with Dark Reader |
 | [Brave](https://brave.com/) | [Brave_(web_browser)](https://wikipedia.org/wiki/Brave_(web_browser))| <https://github.com/brave/brave-browser> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) |:heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No | :heavy_check_mark: Yes | Night Mode (Experimental) |
-| [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) | [Firefox_Focus](https://en.wikipedia.org/wiki/Firefox_Focus) | <https://github.com/mozilla-mobile/focus-android> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :x: No | Yes | :heavy_check_mark: Yes |
+| [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) | [Firefox_Focus](https://wikipedia.org/wiki/Firefox_Focus) | <https://github.com/mozilla-mobile/focus-android> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :x: No | Yes | :heavy_check_mark: Yes |
 | [Bromite](https://www.bromite.org/) | - | <https://github.com/bromite/bromite> | Google [Blink](https://wikipedia.org/wiki/Blink_(browser_engine)) | :x: No | :heavy_check_mark: Yes | [Yes*](https://www.bromite.org/fdroid) | Yes | Yes |
 
 ##### References: 
 ##### <https://privacytests.org/>
 
-### [Instant Messaging](https://en.wikipedia.org/wiki/Instant_messaging) - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
+### [Instant Messaging](https://wikipedia.org/wiki/Instant_messaging) - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
 
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache | Last Audited |
 | - | - | - | - | - | - | - | - | - | - | - |
