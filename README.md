@@ -65,7 +65,7 @@
 | - | - | - |
 | [postmarketOS](https://postmarketos.org/) | [postmarketOS](https://wikipedia.org/wiki/PostmarketOS) | <https://gitlab.com/postmarketOS> |
 
-### [Android](https://wikipedia.org/wiki/Android_(operating_system))
+### [Android](https://wikipedia.org/wiki/Android_(operating_system)) [Linux](https://wikipedia.org/wiki/Linux)
 
 | Clearnet Website | Wikipedia | Source Code | [Verified Boot](https://source.android.com/security/verifiedboot) |
 | - | - | - | - |
@@ -74,6 +74,7 @@
 
 ##### References:
 ##### <https://wikipedia.org/wiki/Security-focused_operating_system>
+##### <https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems>
 
 ## Applications
 
