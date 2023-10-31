@@ -30,6 +30,9 @@
 | - | - | - | - | - |
 | [Pine64](https://pine64.com/product-category/smartphones/) | [Pine64](https://en.wikipedia.org/wiki/Pine64) | 6" | $150 - $400 | :x: Arm |
 
+##### References:
+##### <https://wikipedia.org/wiki/List_of_open-source_mobile_phones>
+
 ## [Security Token](https://en.m.wikipedia.org/wiki/Security_token)
 
 | Clearnet Website | Wikipedia | Source Code | Price |
