@@ -24,6 +24,12 @@
 | [Star Labs Systems](https://starlabs.systems/pages/byte) | - | Byte | AMD | - | :heavy_check_mark: Yes | :x: x86 |
 | [Purism](https://puri.sm/products/librem-mini/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | Librem Mini | Intel | $800 | :heavy_check_mark: Yes | :x: x86 |
 
+## [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
+
+| Clearnet Website | Wikipedia | Size | Price | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures) |
+| - | - | - | - | - |
+| [Pine64](https://pine64.com/product-category/smartphones/) | [Pine64](https://en.wikipedia.org/wiki/Pine64) | 6" | $150 - $400 | :x: Arm |
+
 ## [Security Token](https://en.m.wikipedia.org/wiki/Security_token)
 
 | Clearnet Website | Wikipedia | Source Code | Price |
