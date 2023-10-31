@@ -28,7 +28,8 @@
 
 | Clearnet Website | Wikipedia | Size | Price | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures) |
 | - | - | - | - | - |
-| [Pine64](https://pine64.com/product-category/smartphones/) | [Pine64](https://en.wikipedia.org/wiki/Pine64) | 6" | $150 - $400 | :x: Arm |
+| [Pine64](https://pine64.com/product-category/smartphones/) | [Pine64](https://en.wikipedia.org/wiki/Pine64) | 5.95", 6" | $150 - $400 | :x: Arm |
+| [Fairphone](https://www.fairphone.com/en/) | [Fairphone](https://en.wikipedia.org/wiki/Fairphone) | 6.3", 6.46" | $530 - $700 | :x: Arm |
 
 ##### References:
 ##### <https://wikipedia.org/wiki/List_of_open-source_mobile_phones>
