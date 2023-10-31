@@ -9,19 +9,20 @@
 
 ## [Laptop](https://wikipedia.org/wiki/Laptop)
 
-| Clearnet Website | Wikipedia | Size | Price | Coreboot |
-| - | - | - | - | - |
-| [Star Labs Systems](https://us.starlabs.systems/) | - | 11", 14" | $480 - $930 | :heavy_check_mark: Yes |
-| [ThinkPenguin](https://www.thinkpenguin.com/) | - | 14" | $950 | :heavy_check_mark: Yes |
-| [System76](https://system76.com/) | [System76](https://wikipedia.org/wiki/System76) | 14", 15", 17" | $1000 - $2200 | :heavy_check_mark: Yes |
-| [Purism](https://puri.sm/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | 14" | $1370 | :heavy_check_mark: Yes |
+| Clearnet Website | Wikipedia | Size | Price | Coreboot | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures) |
+| - | - | - | - | - | - |
+| [Pine64](https://pine64.com/product-category/laptops/) | [Pine64](https://en.wikipedia.org/wiki/Pine64) | 11.6", 14" | $99 - $220 | | :x: Arm |
+| [Star Labs Systems](https://us.starlabs.systems/) | - | 11", 14" | $480 - $930 | :heavy_check_mark: Yes | :x: x86 |
+| [ThinkPenguin](https://www.thinkpenguin.com/) | - | 14" | $950 | :heavy_check_mark: Yes | :x: x86 |
+| [System76](https://system76.com/) | [System76](https://wikipedia.org/wiki/System76) | 14", 15", 17" | $1000 - $2200 | :heavy_check_mark: Yes | :x: x86 |
+| [Purism](https://puri.sm/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | 14" | $1370 | :heavy_check_mark: Yes | :x: x86 |
 
 ## [Mini PC](https://wikipedia.org/wiki/Nettop)
 
-| Clearnet Website | Wikipedia | Model | Processor | Price | Coreboot |
-| - | - | - | - | - | - |
-| [Star Labs Systems](https://starlabs.systems/pages/byte) | - | Byte | AMD | - | :heavy_check_mark: Yes |
-| [Purism](https://puri.sm/products/librem-mini/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | Librem Mini | Intel | $800 | :heavy_check_mark: Yes |
+| Clearnet Website | Wikipedia | Model | Processor | Price | Coreboot | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures) |
+| - | - | - | - | - | - | - |
+| [Star Labs Systems](https://starlabs.systems/pages/byte) | - | Byte | AMD | - | :heavy_check_mark: Yes | :x: x86 |
+| [Purism](https://puri.sm/products/librem-mini/) | [Purism_(company)](https://wikipedia.org/wiki/Purism_(company)) | Librem Mini | Intel | $800 | :heavy_check_mark: Yes | :x: x86 |
 
 ## [Security Token](https://en.m.wikipedia.org/wiki/Security_token)
 
