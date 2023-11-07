@@ -79,7 +79,7 @@
 
 ## Applications
 
-### Android Application Manager
+### [Android](https://wikipedia.org/wiki/Android_(operating_system)) [Linux](https://wikipedia.org/wiki/Linux) Application Manager
 
 | Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
