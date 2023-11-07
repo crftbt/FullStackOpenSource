@@ -49,6 +49,7 @@
 | Clearnet Website | Wikipedia | Source Code | Closed Source [Binary Blobs](https://wikipedia.org/wiki/Binary_blob) |
 | - | - | - | - |
 | [Coreboot](https://coreboot.org/) | [Coreboot](https://wikipedia.org/wiki/Coreboot) | <https://review.coreboot.org/plugins/gitiles/> | :x: Yes  |
+| [Das U-Boot](https://u-boot.readthedocs.io/) | [Das U-Boot](https://en.wikipedia.org/wiki/Das_U-Boot) | <https://source.denx.de/u-boot/u-boot> | |
 
 ## [Operating System](https://wikipedia.org/wiki/Operating_system)
 ### Desktop [Linux](https://wikipedia.org/wiki/Linux)
