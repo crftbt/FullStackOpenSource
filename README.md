@@ -3,7 +3,7 @@
   
 # [Full Stack](https://wikipedia.org/wiki/Solution_stack) [Open Source](https://wikipedia.org/wiki/Open_source) Hardware and Software
 
-[![Reddit](https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png)](https://reddit.com/r/FullStackOpenSource/) [![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
+[![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
 
 # Hardware
 
