@@ -54,11 +54,11 @@
 ## [Operating System](https://wikipedia.org/wiki/Operating_system)
 ### Desktop [Linux](https://wikipedia.org/wiki/Linux)
 
-| Clearnet Website | Wikipedia | Source Code | [FSF](https://www.fsf.org/) |
-| - | - | - | - |
-| [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | <https://source.puri.sm/explore> | :heavy_check_mark: [Yes](https://www.gnu.org/distros/free-distros.html) |
-| [NixOS](https://nixos.org/) | [NixOS](https://wikipedia.org/wiki/NixOS) | <https://github.com/NixOS/> | :x: No |
-| [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No |
+| Clearnet Website | Wikipedia | Source Code | [FSF](https://www.fsf.org/) | Immutable | Jailed |
+| - | - | - | - | - | - |
+| [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | <https://source.puri.sm/explore> | :heavy_check_mark: [Yes](https://www.gnu.org/distros/free-distros.html) | No | No |
+| [NixOS](https://nixos.org/) | [NixOS](https://wikipedia.org/wiki/NixOS) | <https://github.com/NixOS/> | :x: No | Yes | No |
+| [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No | No | Yes |
 
 ### Mobile [Linux](https://wikipedia.org/wiki/Linux)
 
