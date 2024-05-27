@@ -57,6 +57,7 @@
 
 | Clearnet Website | Wikipedia | Source Code | [FSF](https://www.fsf.org/) | Immutable | Jailed |
 | - | - | - | - | - | - |
+| [Alpine](https://alpinelinux.org/) | [Alpine_Linux](https://en.wikipedia.org/wiki/Alpine_Linux) | <https://gitlab.alpinelinux.org/> | | | No |
 | [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | <https://source.puri.sm/explore> | :heavy_check_mark: [Yes](https://www.gnu.org/distros/free-distros.html) | No | No |
 | [NixOS](https://nixos.org/) | [NixOS](https://wikipedia.org/wiki/NixOS) | <https://github.com/NixOS/> | :x: No | Yes | No |
 | [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No | No | Yes |
