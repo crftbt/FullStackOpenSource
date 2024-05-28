@@ -149,6 +149,5 @@
 
 | Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
-| [Secure Scuttlebutt](https://www.scuttlebutt.nz/) | [Secure_Scuttlebutt](https://wikipedia.org/wiki/Secure_Scuttlebutt) | <https://github.com/ssbc/ssb-server> |
 | [Polycentric](https://polycentric.io/) | | <https://gitlab.futo.org/polycentric/polycentric/-/blob/master/README.md> |
 | [Mastodon](https://joinmastodon.org/) | [Mastodon_(social_network)](https://wikipedia.org/wiki/Mastodon_(social_network)) | <https://github.com/mastodon/mastodon> |
