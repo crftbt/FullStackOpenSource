@@ -130,6 +130,8 @@
 | Mull | - | <https://github.com/Divested-Mobile/Mull-Fenix> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/us.spotco.fennec_dos/) | :heavy_check_mark: with uBlock | :heavy_check_mark: with Dark Reader |
 | [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) | [Firefox_Focus](https://wikipedia.org/wiki/Firefox_Focus) | <https://github.com/mozilla-mobile/focus-android> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :x: No | :heavy_check_mark: Yes | :x: No | Yes | :heavy_check_mark: Yes |
 | [Mullvad Browser](https://mullvad.net/en/browser) | [Mullvad#Browser](https://en.wikipedia.org/wiki/Mullvad#Browser) | <https://gitlab.torproject.org/tpo/applications/mullvad-browser/> | | :heavy_check_mark: Yes |
+| Ladybird | | <https://github.com/LadybirdBrowser/ladybird> | | :heavy_check_mark: Yes | | | | |
+| Falkon | [Falkon](https://en.wikipedia.org/wiki/Falkon) | <https://invent.kde.org/network/falkon> | | :heavy_check_mark: Yes | | | :heavy_check_mark: Yes | |
 
 ##### References: 
 ##### <https://privacytests.org/>
