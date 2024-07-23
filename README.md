@@ -12,7 +12,7 @@
 | Clearnet Website | Wikipedia | Size | Price | Firmware | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures) |
 | - | - | - | - | - | - |
 | [MNT](https://shop.mntre.com/products/mnt-reform) | | 12.5" | $1,200 | | ✔️ RISC |
-| [Frame](https://frame.work) | [Framework_Computer](https://en.wikipedia.org/wiki/Framework_Computer) | 13", 16" | $950 - $2100 | | ✔️ RISC, :x: x86 |
+| [Framework](https://frame.work) | [Framework_Computer](https://en.wikipedia.org/wiki/Framework_Computer) | 13", 16" | $950 - $2100 | | ✔️ RISC, :x: x86 |
 | [Pine64](https://pine64.com/product-category/laptops/) | [Pine64](https://en.wikipedia.org/wiki/Pine64) | 11.6", 14" | $100 - $220 | :heavy_check_mark: [Das U-Boot](https://en.wikipedia.org/wiki/Das_U-Boot) | :x: Arm |
 | [Star Labs Systems](https://us.starlabs.systems/) | - | 11", 14" | $480 - $930 | :heavy_check_mark: [coreboot](https://en.wikipedia.org/wiki/Coreboot) | :x: x86 |
 | [ThinkPenguin](https://www.thinkpenguin.com/) | - | 14" | $950 | :heavy_check_mark: [coreboot](https://en.wikipedia.org/wiki/Coreboot) | :x: x86 |
