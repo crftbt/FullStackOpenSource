@@ -145,6 +145,7 @@
 | [Status](https://status.im/) | - | <https://github.com/status-im> | | Waku P2P | | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days | [2019.09](https://github.com/status-im/status-security#audits)
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Ricochet Refresh](https://www.ricochetrefresh.net/) | - | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :x: No | :x: No |
+| SimpleX | | <https://github.com/simplex-chat/simplex-chat> | | | | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 
 ##### References:
 ##### <https://www.messenger-matrix.de>
