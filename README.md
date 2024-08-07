@@ -3,8 +3,6 @@
   
 # [Full Stack](https://wikipedia.org/wiki/Solution_stack) [Open Source](https://wikipedia.org/wiki/Open_source) Hardware and Software
 
-[![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
-
 # Hardware
 
 ## [Laptop](https://wikipedia.org/wiki/Laptop)
@@ -158,3 +156,5 @@
 
 [Donate](https://liberapay.com/craft/donate)<br>
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+[![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
