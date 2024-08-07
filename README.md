@@ -54,14 +54,13 @@
 | [Das U-Boot](https://u-boot.readthedocs.io/) | [Das U-Boot](https://en.wikipedia.org/wiki/Das_U-Boot) | <https://source.denx.de/u-boot/u-boot> | |
 
 ## [Operating System](https://wikipedia.org/wiki/Operating_system)
-### Desktop [Linux](https://wikipedia.org/wiki/Linux)
+### Desktop
 
-| Clearnet Website | Wikipedia | Source Code | [FSF](https://www.fsf.org/) | Immutable | Jailed |
+| Clearnet Website | Wikipedia | Source Code | [Memory Safe](https://en.wikipedia.org/wiki/Memory_safety) | Immutable | Jailed |
 | - | - | - | - | - | - |
-| [Alpine](https://alpinelinux.org/) | [Alpine_Linux](https://en.wikipedia.org/wiki/Alpine_Linux) | <https://gitlab.alpinelinux.org/> | | | No |
-| [PureOS](https://pureos.net/) | [PureOS](https://wikipedia.org/wiki/PureOS) | <https://source.puri.sm/explore> | :heavy_check_mark: [Yes](https://www.gnu.org/distros/free-distros.html) | No | No |
-| [NixOS](https://nixos.org/) | [NixOS](https://wikipedia.org/wiki/NixOS) | <https://github.com/NixOS/> | :x: No | Yes | No |
-| [Qubes OS](https://qubes-os.org/) | [Qubes_OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No | No | Yes |
+| [Alpine](https://alpinelinux.org/) | [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux) | <https://gitlab.alpinelinux.org/> | :x: No | No | No |
+| [Qubes OS](https://qubes-os.org/) | [Qubes OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No | No | Yes |
+| [Redox OS](https://www.redox-os.org/) | [Redox](https://en.wikipedia.org/wiki/Redox_(operating_system)) | <https://gitlab.redox-os.org/redox-os/redox> | :heavy_check_mark: Yes | No | No |
 
 ### Mobile [Linux](https://wikipedia.org/wiki/Linux)
 
@@ -145,7 +144,7 @@
 | [Status](https://status.im/) | - | <https://github.com/status-im> | | Waku P2P | | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days | [2019.09](https://github.com/status-im/status-security#audits)
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Ricochet Refresh](https://www.ricochetrefresh.net/) | - | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :x: No | :x: No |
-| SimpleX | | <https://github.com/simplex-chat/simplex-chat> | | | | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
+| [SimpleX](https://simplex.chat/) | | <https://github.com/simplex-chat/simplex-chat> | | | | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 
 ##### References:
 ##### <https://www.messenger-matrix.de>
