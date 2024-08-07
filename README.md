@@ -3,6 +3,7 @@
   
 # [Full Stack](https://wikipedia.org/wiki/Solution_stack) [Open Source](https://wikipedia.org/wiki/Open_source) Hardware and Software
 
+
 # Hardware
 
 ## [Laptop](https://wikipedia.org/wiki/Laptop)
@@ -32,7 +33,7 @@
 | [Fairphone](https://www.fairphone.com/en/) | [Fairphone](https://en.wikipedia.org/wiki/Fairphone) | 6.3", 6.46" | $530 - $700 | :x: Arm |
 
 ##### References:
-##### <https://wikipedia.org/wiki/List_of_open-source_mobile_phones>
+###### <https://wikipedia.org/wiki/List_of_open-source_mobile_phones>
 
 ## [Security Token](https://en.m.wikipedia.org/wiki/Security_token)
 
@@ -41,6 +42,7 @@
 | [SoloKeys](https://solokeys.com/) | - | <https://github.com/solokeys> | $20 - 48
 | [OnlyKey](https://onlykey.io/) | - | <https://github.com/trustcrypto> | $59 - $118 |
 | [Nitrokey](https://www.nitrokey.com/) | [Nitrokey](https://wikipedia.org/wiki/Nitrokey) | <https://github.com/nitrokey> | €29 - €109
+
 
 # Software
 
@@ -51,8 +53,9 @@
 | [Coreboot](https://coreboot.org/) | [Coreboot](https://wikipedia.org/wiki/Coreboot) | <https://review.coreboot.org/plugins/gitiles/> | :x: Yes  |
 | [Das U-Boot](https://u-boot.readthedocs.io/) | [Das U-Boot](https://en.wikipedia.org/wiki/Das_U-Boot) | <https://source.denx.de/u-boot/u-boot> | |
 
+
 ## [Operating System](https://wikipedia.org/wiki/Operating_system)
-### Desktop
+### Desktop / Server
 
 | Clearnet Website | Wikipedia | Source Code | [Memory Safe](https://en.wikipedia.org/wiki/Memory_safety) | Immutable | Jailed |
 | - | - | - | - | - | - |
@@ -74,8 +77,20 @@
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | <https://github.com/LineageOS> | :x: No
 
 ##### References:
-##### <https://wikipedia.org/wiki/Security-focused_operating_system>
-##### <https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems>
+###### <https://wikipedia.org/wiki/Security-focused_operating_system>
+###### <https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems>
+
+
+## [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment) / [Window Manager](https://en.wikipedia.org/wiki/Window_manager)
+
+| Clearnet Website | Wikipedia | Source Code | Memory Safe | Wayland |
+| - | - | - | - | - |
+| [Cosmic](https://system76.com/cosmic) | | <https://github.com/pop-os/cosmic-epoch> | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
+| [LeftWM](https://leftwm.org/) | | <https://github.com/leftwm/leftwm> | :heavy_check_mark: Yes | :x: No |
+
+##### References:
+###### <https://everybytecounts.org/>
+
 
 ## Applications
 
@@ -110,7 +125,7 @@
 | [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
 
 ##### References:
-##### <https://wikipedia.org/wiki/List_of_password_managers>
+###### <https://wikipedia.org/wiki/List_of_password_managers>
 
 ### [Multi-factor Authentication](https://wikipedia.org/wiki/Multi-factor_authentication)
 
@@ -131,7 +146,7 @@
 | Falkon | [Falkon](https://en.wikipedia.org/wiki/Falkon) | <https://invent.kde.org/network/falkon> | | :heavy_check_mark: Yes | | | :heavy_check_mark: Yes | |
 
 ##### References: 
-##### <https://privacytests.org/>
+###### <https://privacytests.org/>
 
 ### [Instant Messaging](https://wikipedia.org/wiki/Instant_messaging) - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
 
@@ -145,7 +160,7 @@
 | [SimpleX](https://simplex.chat/) | | <https://github.com/simplex-chat/simplex-chat> | | | | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 
 ##### References:
-##### <https://www.messenger-matrix.de>
+###### <https://www.messenger-matrix.de>
 
 ### Social
 
@@ -154,7 +169,8 @@
 | [Polycentric](https://polycentric.io/) | | <https://gitlab.futo.org/polycentric/polycentric/-/blob/master/README.md> |
 | [Mastodon](https://joinmastodon.org/) | [Mastodon_(social_network)](https://wikipedia.org/wiki/Mastodon_(social_network)) | <https://github.com/mastodon/mastodon> |
 
-[Donate](https://liberapay.com/craft/donate)<br>
+
+## This Open Source Research can be [Supported with a Donation](https://liberapay.com/craft/donate)<br>
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 [![Github](https://github.githubassets.com/favicons/favicon-dark.png)](https://github.com/crftbt/FullStackOpenSource/)
