@@ -154,10 +154,11 @@
 | - | - | - | - | - | - | - | - | - | - | - |
 | [SimpleX](https://simplex.chat/) | | <https://github.com/simplex-chat/simplex-chat> | | | | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 | [Session](https://getsession.org/) | - | <https://github.com/oxen-io> | [Libsodium](https://github.com/jedisct1/libsodium) | [Session](https://getsession.org/blog/session-protocol-technical-information) DRA | [Oxen](https://oxen.io/) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://fdroid.getsession.org/) | | [2021.05.04](https://blog.quarkslab.com/resources/2021-05-04_audit-of-session-secure-messaging-application/20-08-Oxen-REP-v1.4.pdf) |
-| [Briar](https://briarproject.org/) | [Briar_(software)](https://wikipedia.org/wiki/Briar_(software)) | <https://code.briarproject.org/briar/briar> | | P2P | Bluetooh/WiFi/Tor | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/org.briarproject.briar.android/) | | [2017.03.20](https://briarproject.org/news/2017-beta-released-security-audit/) |
 | [Status](https://status.im/) | - | <https://github.com/status-im> | | Waku P2P | | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days | [2019.09](https://github.com/status-im/status-security#audits)
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Ricochet Refresh](https://www.ricochetrefresh.net/) | - | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :x: No | :x: No |
+| [Briar Desktop](https://briarproject.org/download-briar-desktop/) | [Briar_(software)](https://en.wikipedia.org/wiki/Briar_(software)) | <https://code.briarproject.org/briar/briar-desktop> | | | | :heavy_check_mark: Yes |
+| [Briar](https://briarproject.org/) | [Briar_(software)](https://wikipedia.org/wiki/Briar_(software)) | <https://code.briarproject.org/briar/briar> | | P2P | Bluetooh/WiFi/Tor | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/org.briarproject.briar.android/) | | [2017.03.20](https://briarproject.org/news/2017-beta-released-security-audit/) |
 
 ##### References:
 ###### <https://www.messenger-matrix.de>
