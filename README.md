@@ -69,7 +69,7 @@
 | - | - | - |
 | [postmarketOS](https://postmarketos.org/) | [postmarketOS](https://wikipedia.org/wiki/PostmarketOS) | <https://gitlab.com/postmarketOS> |
 
-### [Android](https://wikipedia.org/wiki/Android_(operating_system)) [Linux](https://wikipedia.org/wiki/Linux)
+### [Google Android](https://wikipedia.org/wiki/Android_(operating_system)) [Linux](https://wikipedia.org/wiki/Linux)
 
 | Clearnet Website | Wikipedia | Source Code | [Verified Boot](https://source.android.com/security/verifiedboot) |
 | - | - | - | - |
@@ -94,7 +94,7 @@
 
 ## Applications
 
-### [Android](https://wikipedia.org/wiki/Android_(operating_system)) [Linux](https://wikipedia.org/wiki/Linux) Application Manager
+### [Google Android](https://wikipedia.org/wiki/Android_(operating_system)) [Linux](https://wikipedia.org/wiki/Linux) Application Manager
 
 | Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
@@ -102,7 +102,7 @@
 
 ### Encrypted [DNS](https://wikipedia.org/wiki/Domain_Name_System)
 
-| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| Clearnet Website | Wikipedia | Source Code | Linux | Google Android Linux | F-Droid |
 | - | - | - | - | - | - |
 | [dnscrypt-proxy](https://dnscrypt.info/) | [DNSCrypt](https://wikipedia.org/wiki/DNSCrypt) | <https://github.com/DNSCrypt/dnscrypt-proxy> | :heavy_check_mark: Yes | :heavy_check_mark: Yes | No |
 | [Unbound](https://unbound.net/) | [Unbound_(DNS_server)](https://wikipedia.org/wiki/Unbound_(DNS_server)) | <https://github.com/NLnetLabs/unbound> | :heavy_check_mark: Yes | :x: No | :x: No |
@@ -119,7 +119,7 @@
 
 ### [Password Manager](https://wikipedia.org/wiki/Password_manager)
 
-| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| Clearnet Website | Wikipedia | Source Code | Linux | Google Android Linux | F-Droid |
 | - | - | - | - | - | - |
 | [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://wikipedia.org/wiki/KeePassXC) | <https://github.com/keepassxreboot/keepassxc/> | :heavy_check_mark: Yes | :x: No | :x: No |
 | [KeePassDX](https://www.keepassdx.com/) | - | <https://github.com/Kunzisoft/KeePassDX/> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
@@ -129,13 +129,13 @@
 
 ### [Multi-factor Authentication](https://wikipedia.org/wiki/Multi-factor_authentication)
 
-| Clearnet Website | Wikipedia | Source Code | Linux | Android | F-Droid |
+| Clearnet Website | Wikipedia | Source Code | Linux | Google Android Linux | F-Droid |
 | - | - | - | - | - | - |
 | [Aegis Authenticator](https://getaegis.app/) | - | <https://github.com/beemdevelopment/Aegis> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)
 
 ### [Web Browser](https://wikipedia.org/wiki/Web_browser)
 
-| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Android | F-Droid | [Advertisement Blocking](https://en.m.wikipedia.org/wiki/Ad_blocking) | Dark Theme |
+| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Google Android Linux | F-Droid | [Advertisement Blocking](https://en.m.wikipedia.org/wiki/Ad_blocking) | Dark Theme |
 | - | - | - | - | - | - | - | - | - |
 | [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | <https://gitweb.torproject.org/tor-browser.git/> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://support.torproject.org/tormobile/tormobile-7/)
 | [Mullvad Browser](https://mullvad.net/en/browser) | [Mullvad#Browser](https://en.wikipedia.org/wiki/Mullvad#Browser) | <https://gitlab.torproject.org/tpo/applications/mullvad-browser/> | | :heavy_check_mark: Yes |
@@ -150,7 +150,7 @@
 
 ### [Instant Messaging](https://wikipedia.org/wiki/Instant_messaging) - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
 
-| Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Android | F-Droid | Offline Cache | Last Audited |
+| Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Google Android Linux | F-Droid | Offline Cache | Last Audited |
 | - | - | - | - | - | - | - | - | - | - | - |
 | [SimpleX](https://simplex.chat/) | | <https://github.com/simplex-chat/simplex-chat> | | | | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 | [Session](https://getsession.org/) | - | <https://github.com/oxen-io> | [Libsodium](https://github.com/jedisct1/libsodium) | [Session](https://getsession.org/blog/session-protocol-technical-information) DRA | [Oxen](https://oxen.io/) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://fdroid.getsession.org/) | | [2021.05.04](https://blog.quarkslab.com/resources/2021-05-04_audit-of-session-secure-messaging-application/20-08-Oxen-REP-v1.4.pdf) |
