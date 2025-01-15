@@ -59,7 +59,6 @@
 
 | Clearnet Website | Wikipedia | Source Code | [Memory Safe](https://en.wikipedia.org/wiki/Memory_safety)  | Jailed |
 | - | - | - | - | - |
-| [Redox OS](https://www.redox-os.org/) | [Redox](https://en.wikipedia.org/wiki/Redox_(operating_system)) | <https://gitlab.redox-os.org/redox-os/redox> | :heavy_check_mark: Yes | No |
 | [Alpine](https://alpinelinux.org/) | [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux) | <https://gitlab.alpinelinux.org/> | :x: No | No |
 | [Qubes OS](https://qubes-os.org/) | [Qubes OS](https://wikipedia.org/wiki/Qubes_OS) | <https://github.com/QubesOS/> | :x: No | Yes |
 
