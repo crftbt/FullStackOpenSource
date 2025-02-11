@@ -132,20 +132,6 @@
 | - | - | - | - | - | - |
 | [Aegis Authenticator](https://getaegis.app/) | - | <https://github.com/beemdevelopment/Aegis> | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)
 
-### [Web Browser](https://wikipedia.org/wiki/Web_browser)
-
-| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Google Android Linux | F-Droid | [Advertisement Blocking](https://en.m.wikipedia.org/wiki/Ad_blocking) | Dark Theme |
-| - | - | - | - | - | - | - | - | - |
-| [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | <https://gitweb.torproject.org/tor-browser.git/> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://support.torproject.org/tormobile/tormobile-7/)
-| [Mullvad Browser](https://mullvad.net/en/browser) | [Mullvad#Browser](https://en.wikipedia.org/wiki/Mullvad#Browser) | <https://gitlab.torproject.org/tpo/applications/mullvad-browser/> | | :heavy_check_mark: Yes |
-| [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
-| Ladybird | | <https://github.com/LadybirdBrowser/ladybird> | | :heavy_check_mark: Yes | | | | |
-| Falkon | [Falkon](https://en.wikipedia.org/wiki/Falkon) | <https://invent.kde.org/network/falkon> | | :heavy_check_mark: Yes | | | :heavy_check_mark: Yes | |
-| Fennec F-Droid |
-
-##### References: 
-###### <https://privacytests.org/>
-
 ### [Instant Messaging](https://wikipedia.org/wiki/Instant_messaging) - Decentralized and [End to End Encrypted](https://wikipedia.org/wiki/End-to-end_encryption)
 
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Google Android Linux | F-Droid | Offline Cache | Last Audited |
@@ -160,6 +146,26 @@
 
 ##### References:
 ###### <https://www.messenger-matrix.de>
+
+### Online [Data Storage](https://en.wikipedia.org/wiki/Data_storage)
+
+| Clearnet Website | Wikipedia | Source Code |
+| - | - | - |
+| [IPFS](https://ipfs.tech/) | [InterPlanetary File System](https://en.wikipedia.org/wiki/InterPlanetary_File_System) | <https://github.com/ipfs> |
+
+### [Web Browser](https://wikipedia.org/wiki/Web_browser)
+
+| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Google Android Linux | F-Droid | [Advertisement Blocking](https://en.m.wikipedia.org/wiki/Ad_blocking) | Dark Theme |
+| - | - | - | - | - | - | - | - | - |
+| [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | <https://gitweb.torproject.org/tor-browser.git/> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://support.torproject.org/tormobile/tormobile-7/)
+| [Mullvad Browser](https://mullvad.net/en/browser) | [Mullvad#Browser](https://en.wikipedia.org/wiki/Mullvad#Browser) | <https://gitlab.torproject.org/tpo/applications/mullvad-browser/> | | :heavy_check_mark: Yes |
+| [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
+| Ladybird | | <https://github.com/LadybirdBrowser/ladybird> | | :heavy_check_mark: Yes | | | | |
+| Falkon | [Falkon](https://en.wikipedia.org/wiki/Falkon) | <https://invent.kde.org/network/falkon> | | :heavy_check_mark: Yes | | | :heavy_check_mark: Yes | |
+| Fennec F-Droid |
+
+##### References: 
+###### <https://privacytests.org/>
 
 ### Social
 
