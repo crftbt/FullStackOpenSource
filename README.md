@@ -176,10 +176,15 @@
 
 ### Content
 
-| Clearnet Website | Wikiepdia | Source Code |
+| Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
 | [Grayjay](https://grayjay.app/) | | <https://gitlab.futo.org/videostreaming/grayjay> |
 
+### [Library](https://en.wikipedia.org/wiki/Digital_library)
+
+| Clearnet Website | Wikipedia | Source Code |
+| - | - | - |
+| [Kiwix](https://www.kiwix.org/) | [Kiwix](https://en.wikipedia.org/wiki/Kiwix) | <https://github.com/kiwix/> |
 
 ## This Open Source Research can be [Supported with a Donation](https://liberapay.com/craft/donate)<br>
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
