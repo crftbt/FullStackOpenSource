@@ -72,7 +72,6 @@
 
 | Clearnet Website | Wikipedia | Source Code | [Verified Boot](https://source.android.com/security/verifiedboot) |
 | - | - | - | - |
-| [CalyxOS](https://calyxos.org/) | [CalyxOS](https://wikipedia.org/wiki/CalyxOS) | <https://gitlab.com/CalyxOS> | :heavy_check_mark: Yes |
 | [LineageOS](https://www.lineageos.org/) | [LineageOS](https://wikipedia.org/wiki/LineageOS) | <https://github.com/LineageOS> | :x: No
 
 ##### References:
