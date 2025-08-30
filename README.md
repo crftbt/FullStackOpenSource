@@ -136,7 +136,6 @@
 | Clearnet Website | Wikipedia | Source Code | Cryptography | Protocol | Network | Linux | Google Android Linux | F-Droid | Offline Cache | Last Audited |
 | - | - | - | - | - | - | - | - | - | - | - |
 | [SimpleX](https://simplex.chat/) | | <https://github.com/simplex-chat/simplex-chat> | | | | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
-| [Session](https://getsession.org/) | - | <https://github.com/oxen-io> | [Libsodium](https://github.com/jedisct1/libsodium) | [Session](https://getsession.org/blog/session-protocol-technical-information) DRA | [Oxen](https://oxen.io/) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://fdroid.getsession.org/) | | [2021.05.04](https://blog.quarkslab.com/resources/2021-05-04_audit-of-session-secure-messaging-application/20-08-Oxen-REP-v1.4.pdf) |
 | [Status](https://status.im/) | - | <https://github.com/status-im> | | Waku P2P | | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :heavy_check_mark: [Yes](https://f-droid.org/packages/im.status.ethereum/) | 30 Days | [2019.09](https://github.com/status-im/status-security#audits)
 | [Cwtch](https://cwtch.im/) | - | <https://git.openprivacy.ca/cwtch.im> | | Cwtch | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | :x: No |
 | [Ricochet Refresh](https://www.ricochetrefresh.net/) | - | <https://github.com/blueprint-freespeech/ricochet-refresh> | | | [Tor](https://wikipedia.org/wiki/Tor_(network)) | :heavy_check_mark: Yes | :x: No | :x: No |
@@ -154,14 +153,14 @@
 
 ### [Web Browser](https://wikipedia.org/wiki/Web_browser)
 
-| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Google Android Linux | F-Droid | [Advertisement Blocking](https://en.m.wikipedia.org/wiki/Ad_blocking) | Dark Theme |
-| - | - | - | - | - | - | - | - | - |
+| Clearnet Website | Wikipedia | Source Code | [Engine](https://wikipedia.org/wiki/Browser_engine) | Linux | Google Android Linux | F-Droid | [Advertisement Blocking](https://en.m.wikipedia.org/wiki/Ad_blocking) | Dark Theme | DNS Over HTTPS |
+| - | - | - | - | - | - | - | - | - | - |
 | [Tor Browser](https://www.torproject.org/) | [Tor_Browser](https://wikipedia.org/wiki/Tor_(network)#Tor_Browser) | <https://gitweb.torproject.org/tor-browser.git/> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) | :heavy_check_mark: Yes | :heavy_check_mark: Yes | [Yes*](https://support.torproject.org/tormobile/tormobile-7/)
 | [Mullvad Browser](https://mullvad.net/en/browser) | [Mullvad#Browser](https://en.wikipedia.org/wiki/Mullvad#Browser) | <https://gitlab.torproject.org/tpo/applications/mullvad-browser/> | | :heavy_check_mark: Yes |
 | [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 | Ladybird | | <https://github.com/LadybirdBrowser/ladybird> | | :heavy_check_mark: Yes | | | | |
 | Falkon | [Falkon](https://en.wikipedia.org/wiki/Falkon) | <https://invent.kde.org/network/falkon> | | :heavy_check_mark: Yes | | | :heavy_check_mark: Yes | |
-| Fennec F-Droid |
+| IronWolf |
 
 ##### References: 
 ###### <https://privacytests.org/>
