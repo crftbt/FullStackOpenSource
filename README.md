@@ -96,6 +96,7 @@
 
 | Clearnet Website | Wikipedia | Source Code |
 | - | - | - |
+| Accrescent |
 | [F-Droid](https://f-droid.org/) | [F-Droid](https://wikipedia.org/wiki/F-Droid) | <https://gitlab.com/fdroid> |
 
 ### Encrypted [DNS](https://wikipedia.org/wiki/Domain_Name_System)
