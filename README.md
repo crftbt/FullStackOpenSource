@@ -186,6 +186,11 @@
 | - | - | - |
 | [Kiwix](https://www.kiwix.org/) | [Kiwix](https://en.wikipedia.org/wiki/Kiwix) | <https://github.com/kiwix/> |
 
+### Network
+| Name |
+| - |
+| Veilid |
+
 ## This Open Source Research can be [Supported with a Donation](https://liberapay.com/craft/donate)<br>
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
