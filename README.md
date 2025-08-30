@@ -144,6 +144,7 @@
 
 ##### References:
 ###### <https://www.messenger-matrix.de>
+###### <https://www.securemessagingapps.com/>
 
 ### [Online](https://en.wikipedia.org/wiki/Online_and_offline) [Data Storage](https://en.wikipedia.org/wiki/Data_storage)
 
