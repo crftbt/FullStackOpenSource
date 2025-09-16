@@ -162,7 +162,7 @@
 | [LibreWolf](https://librewolf.net/) | - | <https://gitlab.com/librewolf-community> | [Mozilla](https://wikipedia.org/wiki/Mozilla) [Gecko](https://wikipedia.org/wiki/Gecko_(software)) |:heavy_check_mark: Yes | :x: No | :x: No | :heavy_check_mark: Yes | :heavy_check_mark: Yes |
 | Ladybird | | <https://github.com/LadybirdBrowser/ladybird> | | :heavy_check_mark: Yes | | | | |
 | Falkon | [Falkon](https://en.wikipedia.org/wiki/Falkon) | <https://invent.kde.org/network/falkon> | | :heavy_check_mark: Yes | | | :heavy_check_mark: Yes | |
-| IronWolf |
+| IronFox | | <https://gitlab.com/ironfox-oss/IronFox> | | | ✔️ Yes | No | ✔️ Yes | ✔️ Yes | ✔️ Yes |
 
 ##### References: 
 ###### <https://privacytests.org/>
